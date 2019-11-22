@@ -1,14 +1,8 @@
-import React, { Component } from 'react';
-import './App.css';
-import Button from './Button';
+import React, { Component } from "react";
 
 class App extends Component {
   render() {
-    return (
-      <div className="App">
-        <Button />
-      </div>
-    );
+    return <div>App</div>;
   }
 }
 
